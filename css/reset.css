@@ -1,0 +1,28 @@
+/* reset css 
+-> 해당 홈페이지에서 계속 같이 사용되기 때문에 reset.css 를 따로 만들어 놓고 링크를 거는 경우도 있음. (common css도 따로 만드는 경우 있음.)*/
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
+
+*{
+    padding: 0; margin: 0;
+    box-sizing: border-box;
+    font-size: 100%;
+    font-family: "Noto Sans KR","Nanum Gothic", sans-serif;
+}
+/* *에 영어는 line-height을 1로 써도 괜찮지만,한국어는 1.5가 적당함.
+받침 유무가 다르기 때문에. */
+
+a{
+    text-decoration: none;
+    font-family: "Noto Sans KR", sans-serif;
+}
+ul, li, ol{
+    list-style: none;
+}
+
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+}
