@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=shark&color=ea5703&height=120&text=KT/G%20장학재단%20✒&animation=&fontColor=3f3a39&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 롯데렌터카 비즈카 클로닝 사이트 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> KT&G 장학재단 클로닝 사이트 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> https://keumju.github.io/cloning_kt-g/ </div> 
     </div>
     <div style="text-align: left;">
